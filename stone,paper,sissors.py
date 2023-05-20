@@ -1,4 +1,5 @@
 import random
+print("THE STONE,PAPER AND SISSORS GAME!!!")
 print("0-stone,1-paper,2-sissor")
 user_choice=int(input('enter your choice \n'))
 computer_choice=random.randint(0,2)
