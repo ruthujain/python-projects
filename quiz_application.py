@@ -1,4 +1,5 @@
 print("WELCOME TO THE QUIZ GAME!!!")
+print("Type yes if you want to play \n Type no to exit")
 a=input("DO YOU WANT TO PLAY THE GAME? ")
 if a.lower()=="yes":
     print("Okay,lets begin.")
